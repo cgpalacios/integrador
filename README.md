@@ -13,7 +13,7 @@ Data Access Objects para administracion de biblioteca
 ### Crear un entorno virtual (Linux)
 * python3 -m venv ./venv
 
-###Instalar Jupyter Notebook
+### Instalar Jupyter Notebook
 * pip install notebook 
 
 ### Instalar la libreria SQLAlchemy
