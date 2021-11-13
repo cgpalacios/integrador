@@ -1,0 +1,1 @@
+BBDD_CONNECTION = "oracle://cristian:oracle_4U@192.168.0.22/biblio"  
