@@ -1,5 +1,8 @@
-# integrador
-Data Access Objects para administracion de biblioteca
+# Integrador
+Data Access Objects para administracion de libros y prestamos realizados dentro de una biblioteca
+
+## ![Captura de pantalla de 2021-11-12 22-59-39](https://user-images.githubusercontent.com/44675344/141602195-97bf7672-fb0b-431d-bae1-0600ef4c7e81.png)
+
 
 ## Los siguientes pasos a ejecutar se deben realizar en un entorno Linux.
 
